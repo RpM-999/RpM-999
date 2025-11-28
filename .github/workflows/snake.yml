@@ -3,25 +3,26 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"   # Run every day at 00:00 UTC
-  workflow_dispatch:       # Allow manual run
+  workflow_dispatch:       # Allow manual run from Actions tab
 
 permissions:
-  contents: write          # Required to push to output branch
+  contents: write          # Needed so the action can push to the output branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake SVG
+      - name: Generate Snake SVGs (light / dark / neon)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: RpM-999
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-neon.svg?color_snake=#00fff2&color_dots=#111111,#222222,#ff00ff,#00eaff,#00ff90
 
-      - name: Push Snake to output branch
+      - name: Push Snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

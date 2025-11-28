@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-  workflow_dispatch:       
+    - cron: "0 0 * * *"   # Run every day at 00:00 UTC
+  workflow_dispatch:       # Allow manual run
 
-# ✅ Needed so the action can push to the output branch
 permissions:
-  contents: write
+  contents: write          # Required to push to output branch
 
 jobs:
   build:

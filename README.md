@@ -105,6 +105,7 @@ Hi, I'm **Rupam Mondal** – an aspiring **Data Analyst, Data Scientist, ML Engi
 ### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://images.seeklogo.com/logo-png/29/1/microsoft-sql-server-logo-png_seeklogo-298266.png](https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000)"/>
 </p>
 
 ### 🛠 Dev Tools & Platforms
@@ -142,49 +143,54 @@ Hi, I'm **Rupam Mondal** – an aspiring **Data Analyst, Data Scientist, ML Engi
 
 ---
 
-<!-- ===================== GITHUB DASHBOARD ===================== -->
-
 <p align="center">
-  <img src="https://cdn-icons-gif.flaticon.com/17661/17661937.gif" width="75" alt="Dashboard Icon" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3C5D,100:00ff90&height=55&section=header&text=GitHub%20Dashboard&fontColor=FFFFFF&fontSize=26" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00eaff,100:00ff90&height=55&section=header&text=GitHub%20Dashboard&fontColor=ffffff&fontSize=26&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RpM-999&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RpM-999&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center" style="margin-top:20px;margin-bottom:40px;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RpM-999&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <div style="
+    background: linear-gradient(135deg,#ff00ff,#00eaff,#00ff90);
+    padding: 3px;
+    border-radius: 26px;
+    box-shadow: 0 0 20px rgba(255,0,255,0.55),
+                0 0 28px rgba(0,234,255,0.45),
+                0 0 34px rgba(0,255,144,0.4);
+    display: inline-block;
+  ">
+    <div style="
+      background: rgba(5,10,25,0.96);
+      border-radius: 23px;
+      padding: 25px 25px;
+      border: 1px solid rgba(255,255,255,0.06);
+      box-shadow: 0 18px 45px rgba(0,0,0,0.85);
+      text-align:center;
+    ">
+    <div>
+      <img height="165"
+          src="https://github-readme-stats.vercel.app/api?username=RpM-999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile"
+          alt="GitHub Stats" />
+      <img height="165"
+          src="https://streak-stats.demolab.com?user=RpM-999&theme=tokyonight&hide_border=true"
+          alt="GitHub Streak" />
+    </div>
+    <br>
+    <div>
+      <img height="150"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=RpM-999&layout=compact&theme=tokyonight&hide_border=true"
+          alt="Top Languages" />
+    </div>
+    <br>
+    <div>
+      <img
+          src="https://github-profile-trophy.vercel.app/?username=RpM-999&theme=algolia&no-frame=true&row=1&column=7&margin-w=10"
+          alt="GitHub Trophies" />
+    </div>
+  </div>
+</div>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RpM-999&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
 
----
-
-<!-- ===================== GITHUB ACTIVITY ===================== -->
-
-<p align="center">
-  <img src="https://cdn-icons-gif.flaticon.com/17572/17572027.gif" width="80" alt="Stats Icon" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:0AFF9D&height=60&section=header&text=GitHub%20Activity&fontColor=FFFFFF&fontSize=30" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RpM-999&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RpM-999&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RpM-999&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 <!-- ===================== CONTRIBUTION SNAKE (NEON CARD) ===================== -->
 
 <div align="center" style="margin-top:30px;margin-bottom:40px;">

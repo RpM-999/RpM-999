@@ -80,6 +80,12 @@
 
 ---
 
+<!-- ===================== TECH STACK (NEON CARD) ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00eaff,100:00ff90&height=55&section=header&text=Tech%20Stack&fontColor=000000&fontSize=32" />
+</p>
+
 
 ###  **Programming & Scripting**
 
@@ -192,6 +198,8 @@
   </tr>
 </table>
 
+---
+
 ###  **Data Engineering and Warehousing**
 
 <table align="center" width="92%" border="1" bordercolor="#27ffd9" cellpadding="12" cellspacing="0" style="background-color:#050d24;">
@@ -266,6 +274,8 @@
   </tr>
 </table>
 
+
+---
 
 ###  **Data Analysis and Business Intelligence**
 
@@ -354,7 +364,7 @@
   </tr>
 </table>
 
-
+---
 
 ###  **Machine Learning & AI**
 
@@ -443,6 +453,8 @@
   </tr>
 </table>
 
+
+---
 
 ###  **Dev Tools & Platforms**
 
@@ -557,6 +569,7 @@
   </tr>
 </table>
 
+---
 
 ### **Cloud Platforms**
 
@@ -635,7 +648,6 @@
             <img src="https://leetcard.jacoblin.cool/Rupam99Mondal?theme=dark&font=Ubuntu&border=0&ext=contest" alt="LeetCode Stats" style="border-radius:12px;width:100%;" />
           </a>
           <p style="text-align:center;margin-top:16px;font-size:14px;color:rgba(255,255,255,0.8);">
-            .
           </p>
         </div>
         <div style="
@@ -684,30 +696,33 @@
       box-shadow: 0 18px 45px rgba(0,0,0,0.85);
       text-align:center;
     ">
-    <div>
-      <img height="165"
-          src="https://github-readme-stats.vercel.app/api?username=RpM-999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile"
-          alt="GitHub Stats" />
-      <img height="165"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=RpM-999&theme=tokyonight&hide_border=true"
-          alt="GitHub Streak" />
-    </div>
-    <br>
-    <div>
-      <img height="150"
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=RpM-999&layout=compact&theme=tokyonight&hide_border=true"
-          alt="Top Languages" />
-    </div>
-    <br>
-    <div>
-      <img
-          src="https://github-profile-trophy.vercel.app/?username=RpM-999"
-          alt="GitHub Trophies" />
-    </div>
-  </div>
+  <div align="center">
+    <table>
+      <tr>
+        <td width="50%">
+          <img width="100%"
+            src="https://github-readme-stats.vercel.app/api?username=RpM-999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
+        </td>
+        <td width="50%">
+          <img width="100%"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=RpM-999&theme=tokyonight&hide_border=true" />
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <img height="200"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=RpM-999&layout=compact&theme=tokyonight&hide_border=true" />
+        </td>
+        <td width="50%">
+          <img height="200"
+            src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RpM-999&theme=tokyonight />
+        </td>
+      </tr>
+    </table>
+  </div> 
+ </div>
 </div>
 </div>
-
 
 <!-- ===================== CONTRIBUTION SNAKE (NEON CARD) ===================== -->
 
@@ -753,8 +768,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00eaff,100:00ff90&height=55&section=header&text=Featured%20Projects&fontColor=000000&fontSize=32" />
 </p>
-
-.
 
 ###  **Heart Disease Prediction (ML)**
 
@@ -860,7 +873,7 @@
         <tr bgcolor="#0b142b">
           <td width="90" align="center"><img src="Images\certificates\badges\hgf.png" alt="Fandamentals of Agents Badge" width="72" /></td>
           <td style="color:#f4f8ff;">Fandamentals of Agents</td>
-          <td style="color:#9bb6ff;">Snowflake</td>
+          <td style="color:#9bb6ff;">Hugging Face</td>
           <td style="color:#9bb6ff;">2025</td>
           <td><a href="#" style="color:#27ffd9;">coming soon</a></td>
         </tr>

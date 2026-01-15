@@ -159,7 +159,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Images/icons/hugging%20face.svg" width="52" alt="Hugging Face" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/N8N.PNG" width="52" alt="n8n" />
+  <img src="Images/icons/n8n.png" width="52" alt="n8n" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Images/icons/crew.png" width="52" alt="CrewAI" />
 </p>

@@ -89,24 +89,20 @@
 
 ###  **Programming & Scripting**
 
-<p align="center">
+<p align="right">
   <img src="Images/icons/python.webp" width="52" alt="Python" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Images/icons/R.png" width="52" alt="R" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Images/icons/c.png" width="52" alt="C" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/JAVA.png" width="52" alt="Java" />
 </p>
 
 ---
 
 ###  **Databases**
 
-<p align="center">
+<p align="right">
   <img src="Images/icons/sql.svg" width="52" alt="SQL Server" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/postgress.png" width="52" alt="Postgres" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Images/icons/mongo.png" width="52" alt="MongoDB" />
 </p>
@@ -115,7 +111,7 @@
 
 ###  **Data Engineering and Warehousing**
 
-<p align="center">
+<p align="right">
   <img src="Images/icons/databricks.png" width="52" alt="Databricks" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Images/icons/datafactory.png" width="52" alt="Azure Data Factory" />
@@ -132,7 +128,7 @@
 
 ###  **Data Analysis and Business Intelligence**
 
-<p align="center">
+<p align="right">
   <img src="Images/icons/t.png" width="52" alt="Tableau" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Images/icons/sql.svg" width="52" alt="SQL" />
@@ -238,15 +234,15 @@
   <table>
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RpM-999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RpM-999&show_icons=true&theme=tokyonight" />
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RpM-999&theme=tokyonight&hide_border=true" />
+        <img width="100%" src="https://streak-stats.demolab.com?user=RpM-999&theme=tokyonight" />
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RpM-999&layout=compact&theme=tokyonight&hide_border=true" />
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RpM-999&theme=tokyo-night" />
       </td>
       <td width="50%">
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RpM-999&theme=tokyonight" />
@@ -254,6 +250,15 @@
     </tr>
   </table>
 </div>
+<table align="center">
+  <tr>
+    <td align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RpM-999&layout=compact&theme=tokyonight)
+    </td>
+  </tr>
+</table>
+
 
 ---
 

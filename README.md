@@ -81,117 +81,112 @@
 ---
 
 <!-- ===================== TECH STACK (NEON CARD) ===================== -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00eaff,100:00ff90&height=55&section=header&text=Tech%20Stack&fontColor=000000&fontSize=32" />
 </p>
 
-
-###  **Programming & Scripting**
-
-<p align="right">
-  <img src="Images/icons/python.webp" width="52" alt="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/R.png" width="52" alt="R" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/c.png" width="52" alt="C" />
-</p>
-
----
-
-###  **Databases**
-
-<p align="right">
-  <img src="Images/icons/sql.svg" width="52" alt="SQL Server" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/mongo.png" width="52" alt="MongoDB" />
-</p>
-
----
-
-###  **Data Engineering and Warehousing**
-
-<p align="right">
-  <img src="Images/icons/databricks.png" width="52" alt="Databricks" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/datafactory.png" width="52" alt="Azure Data Factory" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/dbt.png" width="52" alt="dbt" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/snowflake.png" width="52" alt="Snowflake" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/delta%20lake.png" width="52" alt="Delta Lake" />
-</p>
-
-
----
-
-###  **Data Analysis and Business Intelligence**
-
-<p align="right">
-  <img src="Images/icons/t.png" width="52" alt="Tableau" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/sql.svg" width="52" alt="SQL" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/pandas.png" width="52" alt="Pandas" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/nupy.png" width="52" alt="NumPy" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/matplot.webp" width="52" alt="Matplotlib" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/excel.png" width="52" alt="Excel" />
-</p>
-
----
-
-###  **Machine Learning & AI**
-
-<p align="center">
-  <img src="Images/icons/scikitlearn.png" width="52" alt="Scikit-learn" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/pytorch.webp" width="52" alt="PyTorch" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/langchain.png" width="52" alt="LangChain" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/hugging%20face.svg" width="52" alt="Hugging Face" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/n8n.png" width="52" alt="n8n" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/crew.png" width="52" alt="CrewAI" />
-</p>
-
-
----
-
-###  **Dev Tools & Platforms**
-
-<p align="center">
-  <img src="Images/icons/git.png" width="52" alt="Git" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/github.webp" width="52" alt="GitHub" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/docker.png" width="52" alt="Docker" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/vscode.png" width="52" alt="VS Code" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/colab.webp" width="52" alt="Google Colab" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/kaggle.png" width="52" alt="Kaggle" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/powersell.png" width="52" alt="PowerShell" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/linux.png" width="52" alt="Linux" />
-</p>
-
----
-
-### **Cloud Platforms**
-
-<p align="center">
-  <img src="Images/icons/azure.png" width="52" alt="Azure" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/icons/aws.png" width="52" alt="AWS" />
-</p>
+<div align="center">
+  <table width="90%">
+    <tr>
+      <td width="30%" valign="middle" align="left" style="padding-right:20px;">
+        <h3>Programming & Scripting</h3>
+      </td>
+      <td width="70%" valign="middle">
+        <img src="Images/icons/python.webp" width="52" alt="Python" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/c.png" width="52" alt="C" />
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="middle" align="left" style="padding-right:20px;">
+        <h3>Databases</h3>
+      </td>
+      <td width="70%" valign="middle">
+        <img src="Images/icons/sql.svg" width="52" alt="SQL Server" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/postgress.png" width="52" alt="Postgres" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/mongo.png" width="52" alt="MongoDB" />
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="middle" align="left" style="padding-right:20px;">
+        <h3>Data Engineering & Warehousing</h3>
+      </td>
+      <td width="70%" valign="middle">
+        <img src="Images/icons/databricks.png" width="52" alt="Databricks" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/dbt.png" width="52" alt="dbt" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/snowflake.png" width="52" alt="Snowflake" />
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="middle" align="left" style="padding-right:20px;">
+        <h3>Data Analysis & BI</h3>
+      </td>
+      <td width="70%" valign="middle">
+        <img src="Images/icons/t.png" width="52" alt="Tableau" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/sql.svg" width="52" alt="SQL" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/pandas.png" width="52" alt="Pandas" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/nupy.png" width="52" alt="NumPy" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/matplot.webp" width="52" alt="Matplotlib" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/excel.png" width="52" alt="Excel" />
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="middle" align="left" style="padding-right:20px;">
+        <h3>Machine Learning & AI</h3>
+      </td>
+      <td width="70%" valign="middle">
+        <img src="Images/icons/scikitlearn.png" width="52" alt="Scikit-learn" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/pytorch.webp" width="52" alt="PyTorch" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/langchain.png" width="52" alt="LangChain" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/hugging%20face.svg" width="52" alt="Hugging Face" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/n8n.png" width="52" alt="n8n" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/crew.png" width="52" alt="CrewAI" />
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="middle" align="left" style="padding-right:20px;">
+        <h3>Dev Tools & Platforms</h3>
+      </td>
+      <td width="70%" valign="middle">
+        <img src="Images/icons/git.png" width="52" alt="Git" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/github.webp" width="52" alt="GitHub" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/docker.png" width="52" alt="Docker" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/vscode.png" width="52" alt="VS Code" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/colab.webp" width="52" alt="Google Colab" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/kaggle.png" width="52" alt="Kaggle" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="Images/icons/linux.png" width="52" alt="Linux" />
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="middle" align="left" style="padding-right:20px;">
+        <h3>Cloud Platforms</h3>
+      </td>
+      <td width="70%" valign="middle">
+        <img src="Images/icons/aws.png" width="52" alt="AWS" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ***
 
